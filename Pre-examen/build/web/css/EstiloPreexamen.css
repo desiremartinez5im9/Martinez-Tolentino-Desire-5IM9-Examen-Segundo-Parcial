@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/10/2018, 07:50:11 AM
+    Author     : Alumno
+*/
+h1{
+    color: deeppink;
+    font-family: Castellar;
+}
+body{
+    background-color: #ffccff;
+    font-family: Gabriola;
+}
+form{
+    background-color: hotpink;
+}
